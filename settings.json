@@ -1,0 +1,12 @@
+{
+    "vsicons.projectDetection.autoReload": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "City Lights",
+    "window.zoomLevel": -1,
+    "extensions.ignoreRecommendations": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.tabSize": 2,
+    "editor.fontFamily": "Meslo LG M DZ for Powerline",
+    "editor.fontSize": 16,
+    "files.autoSave": "onWindowChange",
+}
